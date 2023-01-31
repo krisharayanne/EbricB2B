@@ -1,0 +1,138 @@
+.ourServices {
+    text-transform: uppercase;
+    color: #eb287d;
+    font-weight: 700;
+    font-size: 23.972px;
+    margin-left: 8%;
+    letter-spacing: 0.05em;
+  }
+  
+  .assetTokenizationHeader {
+    margin-top: 2%;
+    margin-left: 8%;
+    color: #334477;
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    float: left;
+  }
+
+  .assetTokenizationHeader2 {
+    margin-top: 2%;
+    margin-left: 8%;
+    color: #334477;
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+  }
+  
+  .assetTokenizationText {
+    margin-top: 3%;
+    font-weight: 400;
+    font-size: 21.1517px;
+    float: left;
+    color: #4f4f4f;
+    margin-left: 14%;
+    line-height: 150%;
+  }
+
+  .blockchainConsultationPart1 {
+    height: 52.74122807017544vh;
+    background: white;
+    border-top: 1px solid #D9D9D9;
+  }
+
+  .assetTokenizationPart2Pics {
+    width: 50%;
+    height:  47.03947368421053vh;
+}
+
+.clearFloat {
+    clear: both;
+}
+
+
+.blockchainConsultationPart3 {
+    height: 72.25877192982456vh;
+    background: white;
+    /* border-top: 1px solid #D9D9D9; */
+  }
+
+  .blockchainConsultationPart3Left {
+    width: 48%;
+    float: left;
+  }
+
+  .blockchainConsultationPart3Right {
+    width: 48%;
+    float: left;
+  }
+
+  .blockchainConsultationPart3SubHeader {
+    margin-left: 17%;
+    font-weight: 900;
+    font-size: 30.006px;
+    color: #334477;
+    line-height: 170%;
+  }
+
+  .blockchainConsultationPart3SubText {
+    margin-left: 17%;
+    font-weight: 400;
+    font-size: 21.1517px;   
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 170%;
+   }
+
+   .controlMarginTop {
+    margin-top: 1.2%;
+   }
+
+   .blockchainConsultationPart4 {
+        height:  52.30263157894737vh;
+   }
+
+   .assetTokenizationPart6Pic {
+    margin-top: 0%;
+    background-size: contain;
+    margin-left: 8%;
+    width: 85.98958333333333vw;
+    height: 33.1140350877193vh;
+    background: url("/assets/img/blockchainConsultationPart4Pic.png");
+    background-repeat: no-repeat;
+}
+
+.assetTokenizationPart6Text {
+    margin-left: 8%;
+    font-weight: 100;
+    font-size: 30.006px;
+    color: #FFFFFF;
+    float: left;
+    line-height: 150%;
+}
+
+.boldText {
+    font-weight: 700;
+}
+
+.randomSpace1 {
+    height: 11vh;
+}
+
+.button2 {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 8%;
+    margin-top: 8%;
+    letter-spacing: 0.05em;
+    /* transform:scale(1.05,1); */
+  }

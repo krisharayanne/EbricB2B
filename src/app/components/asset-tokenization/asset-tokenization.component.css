@@ -1,0 +1,283 @@
+.ourServices {
+  text-transform: uppercase;
+  color: #eb287d;
+  font-weight: 700;
+  font-size: 23.972px;
+  margin-left: 8%;
+  letter-spacing: 0.05em;
+}
+
+.assetTokenizationHeader {
+  margin-top: 2%;
+  margin-left: 8%;
+  color: #334477;
+  font-weight: 300;
+  font-size: 48.81px;
+  letter-spacing: 0.02em;
+  float: left;
+}
+
+.assetTokenizationText {
+  margin-top: 3%;
+  font-weight: 400;
+  font-size: 21.1517px;
+  float: left;
+  color: #4f4f4f;
+  margin-left: 20%;
+  line-height: 150%;
+}
+
+.assetTokenizationPart1 {
+  height: 52.74122807017544vh;
+  background: white;
+  border-top: 1px solid #D9D9D9;
+}
+
+.assetTokenizationPart2Pics {
+    width: 25%;
+    height: 47.14912280701754vh;
+}
+
+.assetTokenizationPart3Header {  
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: 0.731818px;
+    margin-left: 8%;
+}
+
+.part3Headers {
+    float: left;
+    margin-left: 8%;
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.part4Headers {
+    float: left;
+    margin-left: 8%;
+    font-weight: 900;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.part3Text {
+    margin-top: 0.5%;
+    margin-left: 16%;
+    float: left;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 150%;
+}
+
+.part4Text {
+    margin-top: 0.25%;
+    margin-left: 16%;
+    float: left;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 150%;
+}
+
+.part3Text2 {
+    margin-left: 11.7%;
+}
+
+.part3Text3 {
+    margin-left: 22.3%;
+}
+
+.part3Text4 {
+    margin-left: 15.5%;
+}
+
+.part4Text1 {
+    margin-left: 26%;
+}
+
+.part4Text2 {
+    margin-left: 23.2%;
+}
+
+.part4Text3 {
+    margin-left: 26%;
+}
+
+.part4Text4 {
+    margin-left: 20%;
+}
+
+.assetTokenizationPart3 {
+    height: 99.23245614035088vh;
+}
+
+.new1 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 84%;
+    margin-top: 8%;
+}
+
+.new2 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.new3 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 100%;
+    margin-top: 6%;
+}
+
+.new4 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 90%;
+    float: right;
+    margin-top: 6%;
+}
+
+.secondHorizontal0 {
+    margin-top: 5%;
+}
+
+.secondHorizontal1 {
+    margin-top: 5%;
+}
+
+.secondHorizontal2 {
+    margin-top: 4%;
+}
+
+.secondHorizontal3 {
+    margin-top: 6%;
+}
+
+.secondHorizontal4 {
+    margin-top: 6%;
+}
+
+.horizontal3 {
+    margin-top: 5%;
+}
+
+.horizontal4 {
+    margin-top: 6%;
+}
+
+.assetTokenizationPart4 {
+    height: 84.53947368421052vh;
+}
+
+.assetTokenizationPart5 {
+    height: 127.19298245614036vh;
+}
+
+.assetTokenizationPart5Pic {
+    width: 39.166666666666664vw;
+    height: 104.60526315789474vh;
+    margin-left: 15%;
+    margin-top: 16%;
+}
+
+.assetTokenizationPart5Left {
+    width: 52%;
+    float: left;
+}
+
+.assetTokenizationPart5Right {
+    width: 40%;
+    float: left;
+    /* background-color: red; */
+}
+
+.assetTokenizationPart5Header {
+    margin-top: 6%;
+    margin-left: 4%;
+    font-weight: 900;
+    font-size: 26px;
+    letter-spacing: 0.731818px;
+}
+
+.part5Headers {
+    margin-top: 6%;
+    margin-left: 4%;
+    font-weight: 900;
+    font-size: 30px;    
+    color: #334477;
+}
+
+.part5Text {
+    margin-top: 4%;
+    margin-left: 19%;
+    color: #4F4F4F;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    line-height: 150%;
+}
+
+.pinkText {
+    color: #EB287D;
+}
+
+.underlinedText {
+    text-decoration: underline;
+}
+
+.assetTokenizationPart6 {
+    height: 71.60087719298245vh;
+}
+
+.assetTokenizationPart6Pic {
+    margin-top: 0%;
+    background-size: contain;
+    margin-left: 8%;
+    width: 85.98958333333333vw;
+    height: 33.1140350877193vh;
+    background: url("/assets/img/assetTokenizationPart6Pic.png");
+    background-repeat: no-repeat;
+}
+
+.assetTokenizationPart6Text {
+    margin-left: 8%;
+    font-weight: 100;
+    font-size: 48px;
+    color: #334477;
+    float: left;
+    line-height: 160%;
+}
+
+.boldText {
+    font-weight: 700;
+}
+
+.randomSpace1 {
+    height: 9.5vh;
+}
+
+.button2 {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 12%;
+    margin-top: 8%;
+    letter-spacing: 0.05em;
+    /* transform:scale(1.05,1); */
+  }

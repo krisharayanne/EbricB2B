@@ -1,0 +1,95 @@
+.ourServices {
+    text-transform: uppercase;
+    color: #eb287d;
+    font-weight: 700;
+    font-size: 23.972px;
+    margin-left: 8%;
+    letter-spacing: 0.05em;
+  }
+  
+  .assetTokenizationHeader {
+    margin-top: 2%;
+    margin-left: 8%;
+    color: #334477;
+    font-weight: 300;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    float: left;
+  }
+  
+  .assetTokenizationText {
+    margin-top: 3%;
+    font-weight: 400;
+    font-size: 21.1517px;
+    float: left;
+    color: #4f4f4f;
+    margin-left: 30%;
+    line-height: 150%;
+  }
+
+  .buyABricPart1 {
+    height: 52.74122807017544vh;
+    background: white;
+    border-top: 1px solid #D9D9D9;
+  }
+  
+  .assetTokenizationPart2Pics {
+    width: 50%;
+    height:  47.03947368421053vh;
+}
+
+.buyABricPart3Left {
+    width: 50%;
+    float: left;
+    margin-left: 8%;
+}
+
+.buyABricPart3Right {
+    /* width: 49%; */
+    float: left;
+}
+
+.buyABricPart3 {
+    height: 62.39035087719298vh;
+    background: white;
+}
+
+.buyABricPart3Header {
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.buyABricPart3Text {
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 160%;
+}
+
+.buyABricPart3Link {
+    font-weight: 700;
+    font-size: 23.972px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #EB287D;
+}
+
+/* .buyABricPart4 {
+    height: 89.47368421052632vh;
+    background: white;
+}
+
+.buyABricPart5 {
+    height: 73.02631578947368vh;
+    background: white;
+}
+
+.buyABricPart6 {
+    height: 136.51315789473685vh;
+    background: white;
+} */
+
+

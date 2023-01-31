@@ -1,0 +1,1020 @@
+.HomePartOne1Component {
+    height:  109.64912280701755vh;
+    margin-top: -7%;
+    background-size: 100% 100%;
+    background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+    /* border-left: 12rem solid transparent; */
+    animation: changeBg 20s infinite;
+}
+
+@keyframes changeBg{
+    /* // Pic 1 fade out */
+    0%
+     {
+        background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+       opacity: 1;
+        /* left: -75%; */
+    }
+    4%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+      opacity: 0.8;
+       /* left: -75%; */
+   }
+   8%
+   {
+      background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+     opacity: 0.6;
+      /* left: -75%; */
+  }
+  12%
+  {
+     background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+    opacity: 0.4;
+     /* left: -75%; */
+ }
+
+    /* // Pic 2 fade in */
+    16%
+    {
+       background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+      opacity: 0.4;
+       /* left: -75%; */
+   }
+   20%
+   {
+      background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+     opacity: 0.6;
+      /* left: -75%; */
+  }
+  24%
+  {
+     background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+    opacity: 0.8;
+     /* left: -75%; */
+ }
+ 28%
+ {
+    background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+   opacity: 1;
+    /* left: -75%; */
+}
+
+    /* // Pic 2 fade out */
+    32%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+      opacity: 1;
+       /* left: -75%; */
+    }
+    36%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+      opacity: 0.8;
+       /* left: -75%; */
+    }
+    40%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+      opacity: 0.6;
+       /* left: -75%; */
+    }
+    44%
+    {
+       background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBg2Legit.png") no-repeat;
+      opacity: 0.4;
+       /* left: -75%; */
+    }
+
+    /* // Pic 3 fade in */
+    48%
+    {
+       background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.4;
+       /* left: -75%; */
+    }
+    52%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.6;
+       /* left: -75%; */
+    }
+    56%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.8;
+       /* left: -75%; */
+    }
+    60%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 1;
+       /* left: -75%; */
+    }
+
+    /* // Pic 3 fade out */
+    64%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 1;
+       /* left: -75%; */
+    }
+    68%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.8;
+       /* left: -75%; */
+    }
+    72%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.6;
+       /* left: -75%; */
+    }
+    76%
+    {
+       background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBg3Legit.png") no-repeat;
+      opacity: 0.4;
+       /* left: -75%; */
+    }
+
+    /* // Pic 1 fade in */
+    80%
+    {
+       background: linear-gradient(black), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+      opacity: 0.4;
+       /* left: -75%; */
+    }
+    84%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+      opacity: 0.6;
+       /* left: -75%; */
+    }
+    88%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+      opacity: 0.8;
+       /* left: -75%; */
+    }
+    92%, 100%
+    {
+       background: linear-gradient(rgba(5, 10, 52, 0.8), rgba(5, 10, 52, 0.5)), url("/assets/img/homePartOne1ComponentBgLegit.png") no-repeat;
+      opacity: 1;
+       /* left: -75%; */
+    }
+   
+ }
+
+.h2Text {
+    margin-top: -38%;
+    margin-left: 8%;
+    color: white;
+    font-weight: 50;
+    transform:scale(1.05,1);
+}
+
+.p2Text {
+    margin-top: 0%;
+    margin-left: 8%;
+    color: #EB287D;
+    font-weight: 700;
+    transform:scale(1.05,1);
+}
+
+.h1Text {
+    margin-top: 0%;
+    margin-left: 8%;
+    font-size: 70px;
+    color: white;
+    font-weight: 50;
+    transform:scale(1.05,1);
+}
+
+.p1Text {
+    margin-top: 2%;
+    margin-left: 8%;
+    font-size: 50px;
+    color: #334477;
+    font-weight: 10;
+    transform:scale(1.05,1);
+}
+
+.p1Text3 {
+    float: left;
+    margin-top: 2%;
+    margin-left: 10%;
+    font-size: 45px;
+    color: #334477;
+    font-weight: 10;
+    line-height: 150%;
+    transform:scale(1.05,1);
+}
+
+.randomSpace {
+    width: 30%;
+    height: 60.30701754385965vh;
+    background: transparent;
+}
+
+.randomSpace2 {
+    width: 100%;
+    height: 21.92982456140351vh;
+    background: transparent;
+}
+
+.randomSpace3 {
+    width: 100%;
+    height: 16.44736842105263vh;
+    background: transparent;
+}
+
+.first {
+    margin-top: -1%;
+}
+
+.second {
+    margin-top: -2%;
+}
+
+.h3Text {
+    margin-left: 8%;
+    color: white;
+    font-weight: 100;
+    transform:scale(1.05,1);
+}
+
+.p3Text {
+    margin-left: 8%;
+    color: #4F4F4F;
+    font-weight: 100;
+    line-height: 100%;
+    transform:scale(1.05,1);
+}
+
+.button {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 6%;
+    transform:scale(1.05,1);
+  }
+
+.contactUs {
+    border: 0.1rem solid white;
+    background-color: transparent;
+    margin-left: 1%;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: transparent;
+    color: #B8B8B8;
+    margin-left: 5%;
+    transform:scale(1.05,1);
+  }
+
+.fa-instagram {
+    margin-left: -2%;
+}
+
+.HomePartOne1ComponentText {
+    animation: disappearText1 20s infinite;
+}
+
+@keyframes disappearText1{
+    /* // Pic 1 fade out */
+    0%
+     {
+          opacity: 1;
+    }
+    4%
+    {
+       opacity: 0.8;
+       
+   }
+   8%
+   {
+      opacity: 0.6;
+     
+  }
+  12%
+  {
+   
+    opacity: 0.4;
+     
+ }
+
+    /* // Pic 2 fade in */
+    16%
+    {
+      
+      opacity: 0;
+       
+   }
+   20%
+   {
+      opacity: 0;
+     
+  }
+  24%
+  {
+     opacity: 0;
+     
+ }
+ 28%
+ {
+     opacity: 0;
+   
+}
+
+    /* // Pic 2 fade out */
+    32%
+    {
+      opacity: 0;
+       
+    }
+    36%
+    {
+       opacity: 0;
+      
+    }
+    40%
+    {
+       opacity: 0;
+      
+    }
+    44%
+    {
+       opacity: 0;
+      
+    }
+
+    /* // Pic 3 fade in */
+    48%
+    {
+      opacity: 0;
+      
+    }
+    52%
+    {
+       opacity: 0;
+      
+    }
+    56%
+    {
+       opacity: 0;
+      
+    }
+    60%
+    {
+        opacity: 0;
+       
+    }
+
+    /* // Pic 3 fade out */
+    64%
+    {
+        opacity: 0;
+       
+    }
+    68%
+    {
+       opacity: 0;
+      
+    }
+    72%
+    {
+          opacity: 0;
+      
+    }
+    76%
+    {
+       opacity: 0;
+       
+    }
+
+    /* // Pic 1 fade in */
+    80%
+    {
+       opacity: 0.4;
+      
+    }
+    84%
+    {
+       opacity: 0.6;
+      
+    }
+    88%
+    {
+       opacity: 0.8;
+      
+    }
+    92%, 100%
+    {
+       opacity: 1;
+      
+    }
+}
+
+.HomePartOne2ComponentText {
+margin-top: 5%;
+animation: disappearText2 20s infinite;
+}
+
+@keyframes disappearText2{
+    /* // Pic 1 fade out */
+    0%
+     {
+          opacity: 0;
+    }
+    4%
+    {
+       opacity: 0;
+       
+   }
+   8%
+   {
+      opacity: 0;
+     
+  }
+  12%
+  {
+   
+    opacity: 0;
+     
+ }
+
+    /* // Pic 2 fade in */
+    16%
+    {
+      
+      opacity: 0.4;
+       
+   }
+   20%
+   {
+      opacity: 0.6;
+     
+  }
+  24%
+  {
+     opacity: 0.8;
+     
+ }
+ 28%
+ {
+     opacity: 1;
+   
+}
+
+    /* // Pic 2 fade out */
+    32%
+    {
+      opacity: 1;
+       
+    }
+    36%
+    {
+       opacity: 0.8;
+      
+    }
+    40%
+    {
+       opacity: 0.6;
+      
+    }
+    44%
+    {
+       opacity: 0.4;
+      
+    }
+
+    /* // Pic 3 fade in */
+    48%
+    {
+      opacity: 0;
+      
+    }
+    52%
+    {
+       opacity: 0;
+      
+    }
+    56%
+    {
+       opacity: 0;
+      
+    }
+    60%
+    {
+        opacity: 0;
+       
+    }
+
+    /* // Pic 3 fade out */
+    64%
+    {
+        opacity: 0;
+       
+    }
+    68%
+    {
+       opacity: 0;
+      
+    }
+    72%
+    {
+          opacity: 0;
+      
+    }
+    76%
+    {
+       opacity: 0;
+       
+    }
+
+    /* // Pic 1 fade in */
+    80%
+    {
+       opacity: 0;
+      
+    }
+    84%
+    {
+       opacity: 0;
+      
+    }
+    88%
+    {
+       opacity: 0;
+      
+    }
+    92%, 100%
+    {
+       opacity: 0;
+      
+    }
+}
+
+.HomePartOne3ComponentText {
+    margin-top: 5%;
+    animation: disappearText3 20s infinite;
+    }
+
+    @keyframes disappearText3{
+        /* // Pic 1 fade out */
+        0%
+         {
+              opacity: 0;
+        }
+        4%
+        {
+           opacity: 0;
+           
+       }
+       8%
+       {
+          opacity: 0;
+         
+      }
+      12%
+      {
+       
+        opacity: 0;
+         
+     }
+    
+        /* // Pic 2 fade in */
+        16%
+        {
+          
+          opacity: 0;
+           
+       }
+       20%
+       {
+          opacity: 0;
+         
+      }
+      24%
+      {
+         opacity: 0;
+         
+     }
+     28%
+     {
+         opacity: 0;
+       
+    }
+    
+        /* // Pic 2 fade out */
+        32%
+        {
+          opacity: 0;
+           
+        }
+        36%
+        {
+           opacity: 0;
+          
+        }
+        40%
+        {
+           opacity: 0;
+          
+        }
+        44%
+        {
+           opacity: 0;
+          
+        }
+    
+        /* // Pic 3 fade in */
+        48%
+        {
+          opacity: 0.4;
+          
+        }
+        52%
+        {
+           opacity: 0.6;
+          
+        }
+        56%
+        {
+           opacity: 0.8;
+          
+        }
+        60%
+        {
+            opacity: 1;
+           
+        }
+    
+        /* // Pic 3 fade out */
+        64%
+        {
+            opacity: 1;
+           
+        }
+        68%
+        {
+           opacity: 0.8;
+          
+        }
+        72%
+        {
+              opacity: 0.6;
+          
+        }
+        76%
+        {
+           opacity: 0.4;
+           
+        }
+    
+        /* // Pic 1 fade in */
+        80%
+        {
+           opacity: 0;
+          
+        }
+        84%
+        {
+           opacity: 0;
+          
+        }
+        88%
+        {
+           opacity: 0;
+          
+        }
+        92%, 100%
+        {
+           opacity: 0;
+          
+        }
+    }
+
+    .HomePartTwo1Component {
+        margin-top: 4.7%;
+        height: 109.64912280701755vh;
+    }
+
+    .HomePartTwo1ComponentText {
+        float:left;
+        width: 50%;
+        height: 100%;
+        background: #F7F7F7;
+    }
+
+    .HomePartTwo2ComponentText {
+        float:left;
+        width: 25%;
+        height: 100%;
+        background: #334477;
+    }
+
+    .HomePartTwo3ComponentText {
+        float:left;
+        width: 25%;
+        height: 100%;
+        background: #E74B8F;
+    }
+
+    .whiteText {
+        color: white !important;
+    }
+
+    .silverText {
+        color: #D9D9D9 !important;
+    }
+
+    .blueText {
+        color: #334477 !important;
+    }
+
+    .pinkText {
+        color: #E74B8F !important;
+    }
+
+    .heavyText {
+        font-weight: 900 !important;
+    }
+
+    .thinText {
+        font-weight: 100 !important;
+    }
+
+    .HomePartThree1Component {
+        margin-top: -5%;
+        height: 109.64912280701755vh;
+        background: white;
+        background-image: url("/assets/img/homePartThreeBg.png");
+        background-repeat: no-repeat;
+        background-position: right bottom;
+    }
+
+    .underlinedText {
+        text-decoration: underline;
+    }
+
+    .boxItem {
+        
+    }
+
+    .box1Item {
+        margin-top: 2.5%;
+        margin-left: 15.5%;
+        float:left;
+        width: 22%;
+        height: 25%;
+        border:  2.16149px solid #C4C4C4;
+    
+    }
+
+    .box2Item {
+        margin-top: 2.5%;
+        margin-left: 8%;
+        float:left;
+        width: 22%;
+        height: 25%;
+        border:  2.16149px solid #C4C4C4;
+    }
+
+    .box3Item {
+        margin-top: 5%;
+        margin-right: 8%;
+        clear: left;
+        float: right;
+        width: 22%;
+        height: 25%;
+        border:  2.16149px solid #C4C4C4;
+    }
+
+    .box4Item {
+        margin-top: 5%;
+        margin-right: 8%;
+        float: right;
+        width: 22%;
+        height: 25%;
+        border:  2.16149px solid #C4C4C4;
+    }
+
+    .box5Item {
+        margin-top: 5%;
+        margin-right: 8%;
+        float: right;
+        width: 22%;
+        height: 25%;
+        border:  2.16149px solid #C4C4C4;
+    }
+
+    .p3Icons1 {
+        margin-left: 10%;
+        margin-top: -7%;
+        width: 30%;
+        height: 30%;
+    }
+
+    .p3Icons2 {
+        margin-left: 10%;
+        margin-top: -7%;
+        width: 30%;
+        height: 28%;
+    }
+
+    .boxItemTitle {
+        margin-left: 11%;
+        color: #334477;
+        font-weight: 600;
+        font-size: 24.59px;
+    }
+
+    .boxItemText {
+        margin-left: 14%;
+        font-size: 18.15px;
+        color: #4F4F4F;
+        line-height: 140%;
+        transform:scale(1.07,1);
+    }
+
+    .HomePartFour1Component {
+        /* margin-top: -5%; */
+        height: 109.64912280701755vh;
+        background: white;
+    }
+
+    .subMainHeader {
+        margin-left: 10%;
+        color: #EB287D;
+        font-size: 23.97px;
+        font-weight: 700;
+    }
+
+    .mainHeader {
+        margin-left: 10%;
+        margin-top: 2%;
+        font-size: 48.81px;
+        font-weight: 500;
+        color: #334477;
+    }
+
+    .mainHeaderText {
+        margin-left: 10%;
+        font-size: 21.15px;
+        font-weight: 400;
+        color: #4F4F4F;
+        line-height: 150%;
+    }
+
+    .partFourFirstHeader {
+        margin-left: 10%;
+        float: left;
+    }
+
+    .partFourSecondHeader {
+        margin-left: 10%;
+        float: left;
+    }
+
+    .partFourThirdHeader {
+        margin-left: 10%;
+        float: left;
+    }
+
+    .headerNumberVersion {
+        font-size: 60px;
+        color:#D9D9D9;
+        font-weight: 500;
+    }
+
+    .headerTextVersion {
+        margin-top: 2%;
+        font-size: 30.01px;
+        color: #334477;
+        font-weight: 500;
+    }
+
+    .headerParagraphVersion {
+        font-size: 21.15px;
+        font-weight: 400;
+        color: #4F4F4F;
+        line-height: 170%;
+    }
+
+    .vl {
+        margin-left: -15%;
+        border-left: 1px solid #334477;
+        height: 16.44736842105263vh;
+        float: left;
+    }
+
+    .part4buttons {
+        margin-left: 0%;
+    }
+
+    .HomePartFive1Component {
+        background: lightblue;
+    }
+
+    .HomePartFiveTop {
+        height: 32.23684210526316vh;
+        background: linear-gradient(rgba(235, 40, 125, 0.85), rgba(235, 40, 125, 0.85)), url("/assets/img/homePartFiveTopBg.png") no-repeat;
+        background-size: cover;
+        /* background: rgba(235, 40, 125, 0.85); */
+    }
+
+    
+    .HomePartFiveBottom {
+        height: 74.89035087719299vh;
+        background: linear-gradient(rgba(5, 10, 52, 0.6), rgba(5, 10, 52, 0.6)), url("/assets/img/homePartFiveBottomBg.png") no-repeat;
+        background-size: 100% 74.89035087719299vh;
+        text-align: center;
+        /* background: rgba(235, 40, 125, 0.85); */
+    }
+
+    .HomePartSix1Component {
+        height: 37.60964912280702vh;
+        background: white;
+    }
+
+    .statistics1 {
+        width: 25%;
+        text-align: center;
+        float: left;
+    }
+
+    .statistics1Header {
+        margin-left: 8%;
+        /* margin-top: 20vh; */
+        color: white;
+        font-size: 58.76px;
+        font-weight: 700;
+    }
+
+    .statistics1Text {
+        margin-left: 8%;
+        font-size: 20.86px;
+        font-weight: 400;
+        color: white;
+    }
+
+    .homePartFiveBottomHeader {
+        color: #EB287D;
+        font-size: 23.97px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    .homePartFiveBottomText {
+        color: white;
+        font-size: 37.46px;
+        font-weight: 400;
+    }
+
+  .partSixLogo {
+    margin-left: 1%;
+    float: left;
+  }
+
+  .partSixLogo1 {
+    margin-top: 1%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo2 {
+    margin-top: -4%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo3 {
+    margin-top: 0%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo4 {
+    margin-top: -3%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo5 {
+    margin-left: 50%;
+  }
+
+  .partSixLogoImage {
+    width: 50%;
+  }

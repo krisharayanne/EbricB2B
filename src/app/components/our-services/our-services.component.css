@@ -1,0 +1,233 @@
+.ourServicesPart1 {
+    height: 34.21052631578947vh;
+    background: url("/assets/img/ourServicesPartOneBg.png");
+}
+
+.ourServicesPart2 {
+    height: 170.28508771929825vh;
+    background: #F7F7F7;
+    margin-top: -6%;
+}
+
+.ourServicesPart3 {
+    height: 156.7595459236326vh;
+    background: white;
+}
+
+.ourServicesPartThreeProperties {
+    background-size: contain;
+    margin-left: 7%;
+    width: 85%;
+    background-image: url("/assets/img/ourServicesPartThreePropertiesBg.png");
+    background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%;
+    background-repeat: no-repeat, no-repeat;
+    height: 36.20227038183695vh;
+}
+
+.ourServicesPartThreeProperty1 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty1.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 11.957291666666666vw;
+    height: 17.236326109391126vh;
+    margin-left: 150%;
+    margin-top: 20%;
+}
+
+.ourServicesPartThreeProperty1:hover {
+    transform: scale(1.5,1.5);
+    transition: all 0.3s ease-in-out;
+}
+
+.ourServicesPartThreeProperty2 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty2.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 12.725520833333333vw;
+    height: 11.997936016511868vh;
+    margin-left: 160%;
+    margin-top: 5%;
+}
+
+.ourServicesPartThreeProperty2:hover {
+    transform: scale(1.5,1.5);
+    transition: all 0.3s ease-in-out;
+}
+
+.ourServicesPartThreeProperty3 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty3.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 9.459895833333333vw;
+    height: 11.815273477812177vh;
+    margin-top: -105%;
+    margin-left: 73%;
+}
+
+.ourServicesPartThreeProperty3:hover {
+    transform: scale(1.5,1.5);
+    transition: all 0.3s ease-in-out;
+}
+
+.ourServicesPart2Header {
+    margin-top: -4%;
+    margin-left: 10%;
+    font-size: 70px;
+    font-weight: 600;
+    color: #EB287D;
+}
+
+.ourServicesPart3Header {
+    margin-top: 0%;
+}
+
+.assetTokenizationPic {
+    margin-left: 10%;
+    width: 40%;
+    height: 51.8640350877193vh;
+    border-radius: 5px;
+    float: left;
+    box-shadow: 30px 30px 80px 10px rgba(0,0,0,0.4);
+    /* // horizontal offset, vertical offset, blur radius, spread radius */
+}
+
+img {
+    -webkit-box-reflect: below -3px -webkit-gradient(linear, right top, right bottom, from(transparent), color-stop(80%, transparent), to(rgba(255, 255, 255, 0.4)));
+  }
+
+  .assetTokenizationHeader {
+    margin-left: 10%;
+    color: #334477;
+    font-weight: 300;
+    font-size: 48.81px;
+    float: left;
+  }
+
+  .assetTokenizationText {
+    margin-top: 5%;
+    font-weight: 400;
+    font-size: 21.1517px;
+    color: #4F4F4F;
+    line-height: 160%;
+    display: block;
+  }
+
+  .button {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 6%;
+    transform:scale(1.05,1);
+  }
+
+.contactUs {
+    border: 0.1rem solid #EB287D;
+    color: #EB287D;
+    font-weight: 600;
+    background-color: transparent;
+    margin-left: 10%;
+}
+
+.blockchainConsultationHeader {
+    float: right;
+    margin-right: 2.8%;
+    margin-left: 0%;
+}
+
+.blockchainConsultationText {
+    float: right;
+}
+
+.blockchainConsultationPic {
+    float: right;
+    margin-right: 5%;
+}
+
+.buyABric {
+    font-weight: 600;
+    font-size: 48.81px;
+    color: #334477;
+}
+
+.exclusiveMarketplace {
+    font-weight: 300;
+    font-size: 48.81px;
+    color: #334477;
+}
+
+.propertiesText {
+    float: left;
+    margin-left: 5%;
+    margin-top: 3%;
+    line-height: 350%;
+}
+
+.propertiesPics {
+    float: left;
+}
+
+.button2 {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 0%;
+    margin-top: 4%;
+    letter-spacing: 0.05em;
+    /* transform:scale(1.05,1); */
+  }
+
+  .partSixLogo {
+    margin-left: 1%;
+    float: left;
+  }
+
+  .partSixLogo1 {
+    margin-top: 1%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo2 {
+    margin-top: -4%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo3 {
+    margin-top: 0%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo4 {
+    margin-top: -3%;
+    margin-left: 50%;
+  }
+
+  .partSixLogo5 {
+    margin-left: 50%;
+  }
+
+  .partSixLogoImage {
+    width: 50%;
+  }
+
+  .HomePartSix1Component {
+    height: 37.60964912280702vh;
+    background: #F7F7F7;
+}
+

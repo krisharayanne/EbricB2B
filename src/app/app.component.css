@@ -1,0 +1,281 @@
+body {
+    font-family: Roboto;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: transparent;
+    margin-left: -0.45%;
+    width: 100.9%;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    padding-top: 2.5%;
+    text-decoration: none;
+    margin-left: 7%;
+  }
+  
+  .dropdown {
+    padding-top: 1.75%;
+    float: left;
+    overflow: hidden;
+    margin-left: 7%;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 18px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .ctabtn {
+    margin-top: 1.75%;
+    padding-top: 0%;
+    background-color: #EB287D;
+    width:10%;
+    padding-left:2%;
+  }
+
+  #home {
+    margin-left: 15%;
+  }
+
+  .navbar a:hover, .dropdown:hover .dropbtn {
+   color: #EB287D;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    margin-left: -2%;
+    float: none;
+    color: black;
+    padding: 16px 20px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+  }
+  
+  .dropdown-content a:hover {
+    /* background-color: #ddd; */
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  .headerLogoImage {
+    padding-left: 2.5%;
+    width: 5%;
+    float: left;
+  }
+
+  .headerLogoText {
+    padding-top: 0.4%;
+    padding-left: 0%;
+    width: 9%;
+    height: 9.868421052631579vh;
+    float: left;
+  }
+
+  .footerLogoImage {
+    margin-top: 10%;
+  }
+
+  .footerLogoText {
+
+  }
+
+  .footer {
+    height: 80.81140350877193vh;
+    background: #334477;
+  }
+
+  .footerLeft {
+    margin-left: 6.5%;
+    float: left;
+  }
+
+  .footerRight {
+    margin-left: 8%;
+    float: left;
+  }
+
+  .footerContact {
+    font-size: 16.23px;
+    color: #FFFFFFB2;
+    font-weight: 400;
+    line-height: 200%;
+  }
+
+  .Address {
+    letter-spacing: 0.04em;
+    line-height: 200%;
+    font-size: 18.23px;
+  }
+
+  .AddressHeader {
+    color: #FFFFFFE5;
+    font-weight: 700;
+  }
+
+  .AddressText {
+    color: #FFFFFFB2;
+    font-weight: 500;
+  }
+
+  .emailInput {
+    width: 325%;
+    margin-top: 32%;
+    padding: 10%;
+    border-radius: 5px;
+    border: 1px solid #EB287D;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    /* font-size: 17.68px;
+    font-weight: 300; */
+  }
+
+  .emailInputDiv {
+    float: left;
+  }
+
+  .buttonDiv {
+    margin-top: 8.2%;
+    float: left;
+  }
+
+  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Roboto;
+    font-size: 17.6825px;
+  }
+
+  .button {
+    background-color: #EB287D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 260%;
+    transform:scale(1.05,1);
+    text-transform: uppercase;
+    border-radius: 5px;
+  }
+
+  .fa {
+    margin-top: 0%;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+
+  .footerSocial1 {
+    margin-top: 5%;
+    float: left;
+    margin-left: 0%;
+  }
+
+  .footerSocial2 {
+    margin-top: 5%;
+    float: left;
+    margin-left: 10%;
+  }
+
+  .footerSocial5 {
+    margin-top: 5%;
+    float: left;
+    margin-left: 10%;
+  }
+
+  .footerLinks {
+    margin-top: 1%;
+    clear: left;
+  }
+
+  .footerLinkSectionHeader {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 17.29px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+  }
+
+  .footerLinkSectionText {
+    color: #FFFFFFB2;
+    line-height: 250%;
+    font-size: 18.2311px;
+    font-weight: 400;
+    text-decoration: none;
+  }
+
+  .footerLinkSection1 {
+    margin-right: -52%;
+    float: right;
+  }
+
+  .footerLinkSection2 {
+    margin-right: -10%;
+    float: right;
+  }
+
+  .footerLinkSection3 {
+    margin-right: 16%;
+    float: right;
+  }
+
+  .footerLinkSection4{
+    margin-right: 17%;
+    float: right;
+  }
+
+  .copyright {
+    clear: both;
+  }
+
+  hr.new5 {
+    border: 1px solid #FFFFFF14;
+    width: 60%;
+  }
+
+  .copyrightText {
+    margin-top: 1.6%;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+
+  }
+
+ 
+
+
+  
+
