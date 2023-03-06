@@ -1,0 +1,209 @@
+.ourServices {
+    text-transform: uppercase;
+    color: #eb287d;
+    font-weight: 700;
+    font-size: 23.972px;
+    margin-left: 8%;
+    letter-spacing: 0.05em;
+  }
+  
+  .assetTokenizationHeader {
+    margin-top: 2%;
+    margin-left: 8%;
+    color: #334477;
+    font-weight: 300;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    float: left;
+  }
+  
+  .assetTokenizationText {
+    margin-top: 3%;
+    font-weight: 400;
+    font-size: 21.1517px;
+    float: left;
+    color: #4f4f4f;
+    margin-left: 35%;
+    line-height: 150%;
+  }
+
+  .distributionPartnerPart1 {
+    height: 52.74122807017544vh;
+    background: white;
+    border-top: 1px solid #D9D9D9;
+  }
+
+  .distributionPartnerPart2 {
+    height: 47.03947368421053vh;
+    background: white;
+  }
+
+  .distributionPartnerPart3 {
+    height: 50.328947368421055vh;
+    background: white;
+  }
+
+  .distributionPartnerPart4 {
+    height: 136.51315789473685vh;
+    background: white;
+}
+
+.buyABricPart6Header {
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+    margin-left: 7%;
+}
+
+
+.button2 {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 42%;
+    margin-top: 6%;
+    letter-spacing: 0.05em;
+    /* transform:scale(1.05,1); */
+}
+
+.buyABricPart6Box {
+    margin-left: 7%;
+    width: 20.480729166666666vw;
+    height: 54.3859649122807vh;
+}
+
+.controlLeftMargin {
+    margin-left: 2%;
+}
+
+.ourServicesPartThreeProperties {
+    background-size: contain;
+    /* margin-left: 7%; */
+    width: 100%;
+    background-image: url("/assets/img/ourServicesPartThreePropertiesBg.png");
+    background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%;
+    background-repeat: no-repeat, no-repeat;
+    height: 100%;
+}
+
+.ourServicesPartThreeProperty1 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty1.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 11.957291666666666vw;
+    height: 17.236326109391126vh;
+    margin-left: 67%;
+    margin-top: 4%;
+    transform: scale(1.3,1.3);
+}
+
+.ourServicesPartThreeProperty1:hover {
+    transform: scale(1.8,1.8);
+    transition: all 0.3s ease-in-out;
+}
+
+.ourServicesPartThreeProperty2 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty2.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 12.725520833333333vw;
+    height: 11.997936016511868vh;
+    margin-left: 69%;
+    margin-top: -17.6%;
+    transform: scale(1.3,1.3);
+}
+
+.ourServicesPartThreeProperty2:hover {
+    transform: scale(1.8,1.8);
+    transition: all 0.3s ease-in-out;
+}
+
+.ourServicesPartThreeProperty3 {
+    background-size: contain;
+    background-image: url("/assets/img/ourServicesPartThreeProperty3.png");
+    /* background-position: left top, right 15% bottom, right 10% top 10%, right 35% top 40%; */
+    background-repeat: no-repeat;
+    width: 9.459895833333333vw;
+    height: 11.815273477812177vh;
+    margin-top: -14%;
+    margin-left: 55%;
+    transform: scale(1.3,1.3);
+}
+
+.ourServicesPartThreeProperty3:hover {
+    transform: scale(1.8,1.8);
+    transition: all 0.3s ease-in-out;
+}
+
+.propertiesText {
+    font-weight: 600;
+    font-size: 70.6761px;
+    letter-spacing: -1.19443px;
+    color: #363636;
+    margin-left: 10.5%;
+    margin-top: 3%;
+    line-height: 100%;
+    font-family: 'TT Commons', sans-serif;
+}
+
+.gradientText {
+    font-size: 72px;
+    background: -webkit-linear-gradient(#31D1ED, #59D4BA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.propertiesTextMini {
+    margin-left: 10.5%;
+    font-weight: 500;
+    font-size: 21.7px;
+    color: #4F4F4F;
+    line-height: 150%;
+    font-family: 'TT Commons', sans-serif;
+}
+
+.distributionPartnerPart2Logos {
+    width: 1.0416666666666667vw;
+    height: 2.192982456140351vh;
+    margin-left: 2%;
+}
+
+.distributionPartnerPart2Logo1 {
+    margin-left: 10.5%;
+}
+
+.buyABricPart3Header {
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.buyABricPart3Text {
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 160%;
+}
+
+.distributionPartnerPart3Left {
+    float: left;
+    margin-left: 7%;
+}
+
+.distributionPartnerPart3Right {
+    float: left;
+    margin-left: 7%;
+}
+

@@ -47,6 +47,7 @@
 .buyABricPart3Right {
     /* width: 49%; */
     float: left;
+    margin-left: -2.5%;
 }
 
 .buyABricPart3 {
@@ -77,7 +78,168 @@
     color: #EB287D;
 }
 
-/* .buyABricPart4 {
+.buyABricPart3LinkText {
+    float: left;
+}
+
+.buyABricPart3LinkArrow {
+    float: left;
+    margin-top: -0.3%;
+}
+
+.randomSpace1 {
+    height: 5vh;
+}
+
+.new0 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 85%;
+    margin-top: 28%;
+}
+
+.assetTokenizationPart3Header {  
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: 0.731818px;
+    margin-left: 8%;
+}
+
+.part3Headers {
+    float: left;
+    margin-left: 8%;
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.part4Headers {
+    float: left;
+    margin-left: 8%;
+    font-weight: 900;
+    font-size: 30px;
+    letter-spacing: 0.02em;
+    color: #334477;
+}
+
+.part3Text {
+    margin-top: 0.5%;
+    margin-left: 16%;
+    float: left;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 150%;
+}
+
+.part4Text {
+    margin-top: 0.25%;
+    margin-left: 16%;
+    float: left;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    color: #4F4F4F;
+    line-height: 150%;
+}
+
+.part3Text2 {
+    margin-left: 11.7%;
+}
+
+.part3Text3 {
+    margin-left: 22.3%;
+}
+
+.part3Text4 {
+    margin-left: 15.5%;
+}
+
+.part4Text1 {
+    margin-left: 22%;
+}
+
+.part4Text2 {
+    margin-left: 9.3%;
+}
+
+.part4Text3 {
+    margin-left: 16.5%;
+}
+
+.part4Text4 {
+    margin-left: 8.3%;
+}
+
+.part4Text5 {
+    margin-left: 26%;
+}
+
+.assetTokenizationPart3 {
+    height: 99.23245614035088vh;
+}
+
+.new1 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 84%;
+    margin-top: 8%;
+}
+
+.new2 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 100%;
+    margin-top: 5.5%;
+}
+
+.new3 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 100%;
+    margin-top: 6%;
+}
+
+.new4 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 90%;
+    float: right;
+    margin-top: 6%;
+}
+
+.new5 {
+    clear: both;
+    border-top: 1px solid #BDBEBE;
+    width: 100%;
+    float: right;
+    margin-top: 7%;
+}
+
+.secondHorizontal0 {
+    margin-top: 4%;
+}
+
+.secondHorizontal1 {
+    margin-top: 5%;
+}
+
+.secondHorizontal2 {
+    margin-top: 3.5%;
+}
+
+.secondHorizontal3 {
+    margin-top: 6%;
+}
+
+.secondHorizontal4 {
+    margin-top: 6%;
+}
+
+
+.buyABricPart4 {
     height: 89.47368421052632vh;
     background: white;
 }
@@ -87,9 +249,93 @@
     background: white;
 }
 
+
+.assetTokenizationPart5Pic {
+    width: 39.166666666666664vw;
+    height: 50.43859649122807vh;
+    margin-left: 15%;
+    margin-top: 16%;
+}
+
+.assetTokenizationPart5Left {
+    width: 52%;
+    float: left;
+}
+
+.assetTokenizationPart5Right {
+    width: 40%;
+    float: left;
+    /* background-color: red; */
+}
+
+.assetTokenizationPart5Header {
+    margin-top: 6%;
+    margin-left: 4%;
+    font-weight: 900;
+    font-size: 26px;
+    letter-spacing: 0.731818px;
+}
+
+.part5Headers {
+    margin-top: 6%;
+    margin-left: 4%;
+    font-weight: 900;
+    font-size: 30px;    
+    color: #334477;
+}
+
+.part5Text {
+    margin-top: 4%;
+    margin-left: 0%;
+    color: #4F4F4F;
+    font-weight: 400;
+    font-size: 21.1517px;
+    letter-spacing: 0.02em;
+    line-height: 150%;
+}
+
 .buyABricPart6 {
     height: 136.51315789473685vh;
     background: white;
-} */
+}
+
+.buyABricPart6Header {
+    font-weight: 100;
+    font-size: 48.81px;
+    letter-spacing: 0.02em;
+    color: #334477;
+    margin-left: 8%;
+}
+
+.buyABricPart6Box {
+
+}
+
+.button2 {
+    background-color: #EB287D;;
+    border: none;
+    color: white;
+    padding: 15px 60px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 42%;
+    margin-top: 6%;
+    letter-spacing: 0.05em;
+    /* transform:scale(1.05,1); */
+}
+
+.buyABricPart6Box {
+    margin-left: 8%;
+    width: 20.480729166666666vw;
+    height: 54.3859649122807vh;
+}
+
+.controlLeftMargin {
+    margin-left: 2%;
+}
 
 

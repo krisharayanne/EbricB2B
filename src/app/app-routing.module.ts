@@ -9,6 +9,8 @@ import { OurServicesComponent } from './components/our-services/our-services.com
 import { AssetTokenizationComponent } from './components/asset-tokenization/asset-tokenization.component';
 import { BlockchainConsultationComponent } from './components/blockchain-consultation/blockchain-consultation.component';
 import { BuyABricComponent } from './components/buy-a-bric/buy-a-bric.component';
+import { DistributionPartnerComponent } from './components/distribution-partner/distribution-partner.component';
+import { AboutUsComponent } from './components/about-us/about-us.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'Home', pathMatch: 'full' },
@@ -21,6 +23,8 @@ const routes: Routes = [
   { path: 'AssetTokenization', component: AssetTokenizationComponent},
   { path: 'BlockchainConsultation', component: BlockchainConsultationComponent},
   { path: 'BuyABric', component: BuyABricComponent},
+  { path: 'DistributionPartner', component: DistributionPartnerComponent},
+  { path: 'AboutUs', component: AboutUsComponent},
 ];
 
 @NgModule({
